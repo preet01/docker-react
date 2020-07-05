@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Fast changes. Penchoda
+         Fast changes. Penchoda!!
         </p>
         <a
           className="App-link"
